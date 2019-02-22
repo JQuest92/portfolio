@@ -1,0 +1,26 @@
+#score{
+    background-color: grey;
+
+}
+#winLoss{
+    background-color: lightgray;
+}
+
+body{
+
+    background-color: white;
+   background-image: url("../imgs/bckgrnd2.jpg");
+  /*  background-size: cover;*/
+}
+
+.navbar{
+
+    background-color: turquoise;
+}
+
+.jumbotron {
+    background-image: url("../imgs/dmndBckgrnd2.jpg");
+    background-size: cover;
+    font-weight: bold;
+}
+
