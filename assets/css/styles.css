@@ -30,7 +30,7 @@ main {
 
 .block-header {
   /* Typography */
-  color: #f4e7d0;
+  color: #bc934b;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
@@ -42,7 +42,7 @@ main {
   /* Typography */
   font-size: 24px;
   font-weight: bold;
-  color: #fff;
+  color: #f7f3ed;
 
   /* Visual */
   background: #bc934b;
