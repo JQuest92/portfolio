@@ -4,7 +4,7 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 
   /* Visual */
-  background-image: url("../imgs/ignasi_pattern_s.png");
+  background-color: #000000;
 }
 
 html {
@@ -61,7 +61,7 @@ main {
 /* media query for nav background color change */
 @media only screen and (max-width: 767px) {
   .navbar-header {
-    background-color: #4aaaa5;
+    background-color: #bc934b;
   }
 }
 /* END NAV */
@@ -100,7 +100,7 @@ main {
   height: 60px;
 
   /* Visual */
-  background-color: #666;
+  background-color: #bc934b;
 }
 
 .text-muted-footer {
@@ -117,7 +117,7 @@ main {
   padding-top: 3px;
 
   /* Visual */
-  background-color: #4aaaa5;
+  background-color: #000000;
 }
 /* END FOOTER */
 /* --- END STYLES FOR ALL PAGES --- */
