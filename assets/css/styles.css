@@ -45,7 +45,7 @@ main {
   color: #fff;
 
   /* Visual */
-  background: #4aaaa5;
+  background: #bc934b;
 }
 
 /* override bootstrap hover color and border */
@@ -132,7 +132,7 @@ main {
   /* Typography */
   font-size: 32px;
   font-weight: bold;
-  color: #4aaaa5;
+  color: #bc934b;
 }
 
 #about-image {
