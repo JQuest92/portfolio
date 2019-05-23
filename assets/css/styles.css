@@ -1,7 +1,9 @@
-
 body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   background-color: #000000;
+  background-image: url("../imgs/vanderbilt-background.jpg");
+  background-position: right;
+  background-repeat: no-repeat; 
 }
 
 html {
@@ -36,11 +38,11 @@ main {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-  color: #4aaaa5;
+  color: #111;
 }
 
 .navbar {
-  background: white;
+  background: #bc934b;
   border: none;
 }
 
@@ -74,7 +76,7 @@ main {
 
 .text-muted-footer {
   margin-top: 15px;
-  color: #fff;
+  color: #111;
 }
 
 .about-me-header {
@@ -114,3 +116,31 @@ main {
 .submit-btn:hover {
   opacity: .7;
 }
+
+li.nav-item > a{
+
+  color: #111;
+}
+
+div.two-toned-footer-color > p{
+
+  color: #111;
+}
+
+button.navbar-toggler {
+  color: #111;
+}
+
+
+button.navbar-toggler-collapsed {
+  color: #111;
+}
+
+button.navbar-toggler-collapsed > span {
+  color: #111;
+}
+
+button.navbar-toggler > span {
+  color: #111;
+}
+
